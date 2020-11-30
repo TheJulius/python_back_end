@@ -1,0 +1,4 @@
+Ola Boa Noite,
+    Tenho conhecimentos em programação orientada a objetos e procedural, porém nunca utilizei C#,
+    só preciso de 1 semana para me acostumar com a linguagem e seus padrões. Neste momento,
+    consigo fazer o teste solicitado em PHP, Python e Java, porém C# nunca trabalhei até então.
